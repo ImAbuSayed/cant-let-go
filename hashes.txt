@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Can't Let Go
+
+This log tracks the cryptographic history and versioning for the song **Can't Let Go** (cant-let-go).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-08T03:33:15.459485 | `v1` | `42ea2af279c54aea39306689dc359f3191972ec26b3984758d1ed15b1768a512` | `b267404d6d0bf515421da6991ac5fbb5262f2c6cfdb6d73110fa134f950d98cb` | `2026-06-08_cant-let-go-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

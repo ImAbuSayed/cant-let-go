@@ -13,9 +13,9 @@
 | **Title** | Can't Let Go |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | May 28, 2026 |
-| **Song Page** | Pending |
+| **Song Page** | [Open Song Page](https://imabusayed.github.io/cant-let-go/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Can't Let Go](https://music.abusayed.com.bd/Licensing/) |
+| **Get License** | [Official Music Licensing for Can't Let Go](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cant-let-go/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
