@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | Pending |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Can't Let Go](https://music.abusayed.com.bd/Licensing/) |
+| **Get License** | [Obtain a Music License for Can't Let Go](https://music.abusayed.com.bd/Licensing/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `42ea2af279c54aea39306689dc359f3191972ec26b3984758d1ed15b1768a512` |
 | **Timestamp** | June 08, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
