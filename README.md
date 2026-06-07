@@ -13,9 +13,9 @@
 | **Title** | Can't Let Go |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | May 28, 2026 |
-| **Song Page** | [Open Song Page](https://imabusayed.github.io/cant-let-go/) |
+| **Song Page** | Pending |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Can't Let Go](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cant-let-go/) |
+| **Get License** | [Official Music Licensing for Can't Let Go](https://music.abusayed.com.bd/Licensing/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the heat when you pull me close
+> A quiet fire that nobody knows
+> I am caught up in the rhythm of your breathing
+> This is a feeling I can't let go
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | May 30, 2026 |
+| **Timestamp** | June 08, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
